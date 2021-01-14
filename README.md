@@ -14,7 +14,7 @@
 
 1. Tic Tac Toe bot game with Python tkinter GUI
 
-	<img src="./images/tic_tac_1.png" alt="image-20210113162427628" style="zoom:33%;" />
+	
 	<img src="./images/tic_tac_2.png" alt="image-20210113162427628" style="zoom:33%;" />
 	<img src="./images/tic_tac_3.png" alt="image-20210113162427628" style="zoom:33%;" />
 
